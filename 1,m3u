@@ -9,9 +9,6 @@ http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1 ,DEEJAY TV
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/3sWAEuY.jpg",Dieu TV
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-
 #EXTINF:-1 ,DJing Ibiza
 https://www.djing.com/tv/dancefloor.m3u8
 
