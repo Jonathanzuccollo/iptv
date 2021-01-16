@@ -3,6 +3,9 @@
 #EXTINF:-1 ,HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
+#EXTINF:-1 ,CARTOON NETWORK
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png",98 Live (Belo Horizonte)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL Sports
