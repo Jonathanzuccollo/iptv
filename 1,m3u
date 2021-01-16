@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,TESTE
+http://127.0.0.1:5000/index.html
+
 #EXTINF:-1 ,HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
