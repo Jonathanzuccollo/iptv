@@ -181,14 +181,8 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 #EXTINF:-1 ,& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bJIkebD.png",1 Kanal Evraziya
-https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0LJRlFz.png",1 TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 ,1Music Channel Hungary
-http://1music.hu/1music.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kujnLsO.png",5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
