@@ -62,10 +62,6 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png",Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png",Novo Tempo (Backup)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/TnSvJpd.png",Portal Cultura Pará
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="http://www.puctvgoias.com.br/img/logo.png",PUC TV Goiás
@@ -126,26 +122,16 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png",TV Guará
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg",TV Imaculada Conceição
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg",TV Interlagos
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png",TV Mackenzie
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/5UIy5tD.png",TV Maná Moçambique
-http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="http://www.tvnailha.com.br/img/284974862.png",TV na Ilha
 https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png",TV Pai Eterno (Backup)
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/NVs5RhF.png",TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese",TV Sol
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png",TV Sol Comunidade
@@ -158,8 +144,6 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/YgLLCq6.png",TV UNISC
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/TIsk5zN.png",TV Universal
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/67DQ3bk.png",TV União DF
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png",TV Verdes Campos
