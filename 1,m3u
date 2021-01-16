@@ -6,6 +6,15 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ,CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
+#EXTINF:-1 ,DEEJAY TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3sWAEuY.jpg",Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+
+#EXTINF:-1 ,DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://98live.com.br/assets/logo-98@2x.png",98 Live (Belo Horizonte)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 group-title="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL Sports
@@ -184,6 +193,4 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 #EXTINF:-1 ,& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/IKlrt7F.jpg",777 Tehnika TV
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 
