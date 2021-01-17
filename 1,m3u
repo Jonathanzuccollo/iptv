@@ -689,9 +689,6 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-http://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV
-
-
 #EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/kQYj8m"group-title="TV/FILMES",
 http://0.0.0.0
 
