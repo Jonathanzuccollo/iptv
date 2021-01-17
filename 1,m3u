@@ -690,3 +690,359 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
 http://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV
+
+
+
+
+################## TV/FILMES ########################
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/kQYj8m"group-title="TV/FILMES",
+http://0.0.0.0
+
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/abpu3VJ.png" pltv-subgroup="Filmes On",A&E
+
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JfXDPCM.jpg" pltv-subgroup="Filmes On",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/tIB7xr" pltv-subgroup="Filmes On",CINE TERROR
+http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/uS6onh" pltv-subgroup="Filmes On",CINEMAX 
+http://lista.sv1.tv:25461/live/davidson.jb@outlook.com/iX77SqmeaV/1846.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Hm9uzeC.png" pltv-subgroup="Filmes On",AXN HD 1080p
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/768.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/oLz5tMD.png" pltv-subgroup="Filmes On",AXN Black HD
+http://85.7.107.8:8010/play/a03b?CelioJR
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/itYrAGZ.png" pltv-subgroup="Filmes On",AXN White HD
+http://thumbnails.4network.tv/forbidden/forbidden.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/zj4BzR5.png" pltv-subgroup="Filmes On",Cine Sky
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/9DSeYA6.png" pltv-subgroup="Filmes On",HBO 
+http://89.248.172.146:8088/live/tvhboaovivo2/playlist.m3u8?id=27900&wowzasessionid=7382762294&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/5AizO9P.png" pltv-subgroup="Filmes On",HBO 2 
+http://lista.sv1.tv:25461/live/davidson.jb@outlook.com/iX77SqmeaV/1805.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/wj7jb57.png" pltv-subgroup="Filmes On",HBO Family
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1803.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/YR0KmYP.png" pltv-subgroup="Filmes On",HBO Signature
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1799.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/hSmXOh" pltv-subgroup="Filmes On",HBO COMEDY
+http://dns1.theplayersklub.host:2095/live/leetv/leetv1/624.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/IhWQDi" pltv-subgroup="Filmes On",HBO PLus
+http://185.181.102.2:8081/live/hboplus/chunks.m3u8?nimblesessionid=922599&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjU3OjU0IFBNJmhhc2hfdmFsdWU9amkrMUJSTENELy95a3g5VHZRSzh1QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/0JwEFcK.png" pltv-subgroup="Filmes On",MAX HD
+http://149.56.16.58:25461/live/cineiptv1247/1247/1791.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maxup.png" pltv-subgroup="Filmes On",MAX UP
+http://185.181.102.2:8081/live/maxhd/chunks.m3u8?nimblesessionid=922582&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjU3OjU0IFBNJmhhc2hfdmFsdWU9amkrMUJSTENELy95a3g5VHZRSzh1QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/TwlNGPZ.png" pltv-subgroup="Filmes On",MAX PRIME
+http://starbr.digitalgroup.me:15000/live/25025/25025/1006.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/s8LoXPa.jpg" pltv-subgroup="Filmes On",Telecine 
+http://149.56.16.58:25461/live/frod30/3030/1725.ts?BelcoCanaisHdPremium
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JsvzeH1.png" pltv-subgroup="Filmes On",Telecine Action
+http://80.82.64.144:8088/live/tcacionaovivo2/playlist.m3u8?id=23270&wowzasessionid=7823994459&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/qoDiy6d.png" pltv-subgroup="Filmes On",Telecine Pipoca
+http://185.181.102.3:8081/live/master18/chunks.m3u8?nimblesessionid=7598697&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjUzOjAxIFBNJmhhc2hfdmFsdWU9WkJWZjNJd2FlQ1ZUc0ZLZXFHNGlMdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/e92GE2C.png" pltv-subgroup="Filmes On",Telecine Fun 
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1723.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/7H09nY8.png" pltv-subgroup="Filmes On",Telecine Premium
+http://lista.sv1.tv:25461/live/GEOVANEGOMESDESOUSA/EyVAb5gvJY/1721.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/VM6aKz8.png" pltv-subgroup="Filmes On",Telecine cult
+http://185.181.102.3:8081/live/tccult/chunks.m3u8?nimblesessionid=7597730&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjI4OjM4IFBNJmhhc2hfdmFsdWU9UGNqWkl0dDQ5b003U2pwT0w3bjhxUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/3FDzwz" pltv-subgroup="Filmes On",Telecine Touch
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1720.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/OllOkJF.png" pltv-subgroup="Filmes On",FOX 
+http://80.82.65.164:8088/live/tvfoxaovivo/playlist.m3u8?id=22594&wowzasessionid=3296246967&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JpqAFYL.png" pltv-subgroup="Filmes On",FOX CRIME HD
+http://cdnlive1.win:8080/live/nuA4TtpFNX/CsbBbRXWkc/85.ts
+EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/FGJVGaI.png" pltv-subgroup="Filmes On",Fox Comedy HD
+http://cdnlive1.win:8080/live/nuA4TtpFNX/CsbBbRXWkc/86.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/xJfjWc4.png" pltv-subgroup="Filmes On",FOX PREMIUM 1
+http://brasil.listaiptv.com:25461/live/bano30/3030/1819.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/bZ7x5YR.png" pltv-subgroup="Filmes On",FOX PREMIUM 2
+http://starbr.digitalgroup.me:15000/live/25025/25025/2465.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://d2jgszuqb93di8.cloudfront.net/IMAGES/00/00/00/4645_59A2D34085E3193E.png" pltv-subgroup="Filmes On",Fox Life
+http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/gL82qMM.jpg" pltv-subgroup="Filmes On",Warner Channel
+http://80.82.64.144:8088/live/warneraovivo2/playlist.m3u8?id=23271&wowzasessionid=7386515053&pk=827dd0076bd653fd0dba0d98863020829e3291e90ee2a717c675ceb4f37bd530
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/BWU4anY.png" pltv-subgroup="Filmes On",STUDIO UNIVERSAL
+http://iptv.servidorfull.com:8081/live/hB5z9lEfUS/oY8hn0SJJF/129.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/em6Tv5Q.png" pltv-subgroup="Filmes On",UNIVERSAL CHANNEL
+http://188.166.44.172/loadbalance/universalch/playlist.m3u8?pxAuth=swcF8ODOUzgIM1SPIZszjjOIo3sgGeUZ
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/OMFFzV5.jpg" pltv-subgroup="Filmes On",Space 
+http://165.227.67.52/spacehd/tracks-v1a1/index.m3u8?pxAuth=hpe1cPqFzT9SCFq0QgzZj22U0dD9QS5r
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/GT67VeY.png" pltv-subgroup="Filmes On",TCM
+http://starbr.digitalgroup.me:15000/live/25025/25025/925.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/xbUx1KO.png" pltv-subgroup="Filmes On",Paramount Channel
+http://188.166.44.172/loadbalance/paramount/chunks.m3u8?pxAuth=BAAGkhAW4GzUkE55nKQQiobLLnlzjKuB
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/eljHMrw.png" pltv-subgroup="Filmes On",TBS
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1731.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/oIA0zyW.jpg" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",SyFy
+http://lista.sv1.tv:25461/live/RafaelTeixeira1/RafaelTeixeira1/1732.ts
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/ChBfc8e.png" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",TNT
+http://185.181.102.3:8081/live/master77_1/chunks.m3u8?nimblesessionid=7598626&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjUzOjAxIFBNJmhhc2hfdmFsdWU9WkJWZjNJd2FlQ1ZUc0ZLZXFHNGlMdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/UNGeztP.png" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",Tv Filmes
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://www.lamac.org/res/channels/logos/logo-amc.png" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",Amc
+http://185.181.102.3:8081/live/104/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMTcgMTA6MzQ6MzIgUE0maGFzaF92YWx1ZT1MZWZoZWZFeTUvOGFwT2t2cjVxS3dBPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://www.lamac.org/res/channels/logos/logo-sundance.png" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",Sundance hd
+http://lbsp04.ddns.me:25461/live/hvcfiEtUPF/ApMDaWlKWH/73.ts?
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://www.tvmagazine.com.br/imagens/icones/150/sony.png" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",Sony 
+http://185.181.102.2:8081/live/sony/chunks.m3u8?nimblesessionid=922568&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDEwOjU3OjU0IFBNJmhhc2hfdmFsdWU9amkrMUJSTENELy95a3g5VHZRSzh1QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/HRHTBUT.png" pltv-subgroup="Filmes On" pltv-subgroup="Filmes On",Megapix 
+http://207.154.228.219/loadbalance/megapixhd/chunks.m3u8?pxAuth=74go6DrvP6k7WOvGRMQ8etjbcHMidBcz
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/wFZ5zOX.jpg" pltv-subgroup="Filmes On",Filmes 24h 
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/SOlq1O6.png" pltv-subgroup="Filmes On",Milk TV BR 
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="https://goo.gl/TK9E7U" pltv-subgroup="Filmes On",CINE + HD
+http://roidusat.org:9000/live/pascal.daout2/VbYfJY634a/86.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/wBEA8cH.png" pltv-subgroup="Filmes On",CINE FX
+http://live-m03.abweb.com/liveabm03/ngrp:cinefx.stream_bis/chunklist_b1596000.m3u8
+
+
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="http://tvprofil.net/img/kanali-logo/viasat-tv-1000.png" pltv-subgroup="Filmes On",TV 1000
+http://jabber.divan.tv:81/tv187/4a6jp317lppdg852lc4mjdp1j2/tv1.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="https://goo.gl/qhJ1I1" pltv-subgroup="Filmes On",CINE FRISSION
+http://roidusat.org:9000/live/pascal.daout2/VbYfJY634a/87.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="https://goo.gl/SjOfi2" pltv-subgroup="Filmes On",bTV CINE BULGÁRIA
+http://93.123.65.4:8080/live/btvcinema/index.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="https://goo.gl/wpjfXE" pltv-subgroup="Filmes On",TCM CINEMA
+http://roidusat.org:9000/live/pascal.daout2/VbYfJY634a/1618.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="https://goo.gl/LUhcnj" pltv-subgroup="Filmes On",NOVA CINEMA
+http://174.36.220.217:5000/live/120/120.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="https://goo.gl/u4w7Zb" pltv-subgroup="Filmes On",MOVISTAR CINE
+http://hdlivetv.tv:8000/live/Tomaso3/Tomaso3/20780.m3u8
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/HUMXcMl.png" pltv-subgroup="Filmes On",TVC 1
+http://85.7.107.8:8010/play/a03u
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/BzQx7wZ.png" pltv-subgroup="Filmes On",TV Cine 2 HD
+http://178.192.242.14:9000/play/a00t?
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/PTN2Tjh.png" pltv-subgroup="Filmes On",TVC 4
+http://85.7.107.8:8010/play/a04r
+#EXTINF:1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/BPPUkh9.jpg" pltv-subgroup="Filmes On",CINE MUNDO
+http://85.7.107.8:8012/play/a005
+
+
+
+
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://i.imgur.com/RXcxCOz.jpg" pltv-subgroup="Fantasia",O Poderoso Chefinho 2017
+http://painel.tvdigitalsbl.net:8081/movie/jonas3/jonas3/1551.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://i.imgur.com/RB0kDRx.jpg" pltv-subgroup="Fantasia",A Bela & a Fera 2017
+http://painel.tvdigitalsbl.net:8081/movie/jonas3/jonas3/1534.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://i.imgur.com/4LYk5WE.png" pltv-subgroup="Drama",Rocky I - Um Lutador (1976)
+https://docs.google.com/file/d/0BwVPb8h6GXm3Y2FKdzZCbjl3cXc/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://i.imgur.com/Ffda33a.jpg" pltv-subgroup="Drama",Rocky II - A Revanche (1979)
+https://docs.google.com/file/d/0BwVPb8h6GXm3RF9BdG53QkVqdVU/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://i.imgur.com/6WX3sb2.jpg" pltv-subgroup="Drama",Rocky III - O Desafio Supremo (1982)
+https://docs.google.com/file/d/0BwVPb8h6GXm3cFN1M0xrdTRQRDg/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://www.us666.ru/pics/rocky4.jpg" pltv-subgroup="Drama",Rocky IV (1985)
+https://docs.google.com/file/d/0BwVPb8h6GXm3S05jaVIzTmo5Vkk/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/0ANqGVM.png" pltv-subgroup="Ação",A Fortaleza
+https://docs.google.com/file/d/0B3msUqOhn7iaS051LUlBelU0RDQ/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/sw53u8Q.png" pltv-subgroup="Ação",Um Dia de Fúria
+https://docs.google.com/file/d/0B3msUqOhn7iaNlJMLUIwOFZqcVU/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/fhvZpjd.jpg" pltv-subgroup="Ação",Desafio das Águias
+https://docs.google.com/file/d/0B6QLeHdVOHFtQWN1UFhSMzlvckk/preview
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/71LuF3C.jpg" pltv-subgroup="Ação",John Wick Um Novo Dia Para Matar (2017) 
+http://painel.tvdigitalsbl.net:8081/movie/jonas3/jonas3/1499.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JxxJ28h.jpg" pltv-subgroup="Ação",John Wick De Volta Ao Jogo (2014)
+http://painel.tvdigitalsbl.net:8081/movie/jonas3/jonas3/1498.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/dTZaNdb.png" pltv-subgroup="Ficção científica",Logan
+http://ca.netcine.tv/ntcdnbucket/filmes2017/L0G4NDUB2017-BAIXO.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/SKbkfm1.jpg" pltv-subgroup="Ação",Sereia Predadora
+http://painel.tvdigitalsbl.net:8081/movie/jonas3/jonas3/1522.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/IHKNO3E.jpg" pltv-subgroup="Comédia",MINHA MÃE É UMA PEÇA
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MNHMAEUMPC.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/3OPNDB2.jpg" pltv-subgroup="Comédia",MINHA MÃE É UMA PEÇA 2
+http://s.netcine.tv/netcine-bucket/filmes2016/MINHAMAE-ALTO.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/cU67FWf.jpg" pltv-subgroup="Drama",A CABANA
+http://comofazer.club/embed/ACABANAHDRIPDUB.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/45OyJ1" pltv-subgroup="Policial",AS PANTERAS
+http://media-br-am.crackle.com/1/8/16/3p1lf_480p.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/gKlHk6c.png" pltv-subgroup="Drama",A Lista de Schindler
+https://1fhjlpa.oloadcdn.net/dl/l/sUBRAMJVscflN072/let8bmR6cSM/f629.mp4?mime=true
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/XMBBjta.jpg" pltv-subgroup="Policial",SETE HOMENS E UM DESTINO
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SETHMNSEUDSTN.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/19/15/34/050851.jpg" pltv-subgroup="Drama",MAIS FORTE QUE O MUNDO: A HISTÓRIA DE JOSÉ ALDO
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MSFRTQOMND.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/qRB6lOv.jpg" pltv-subgroup="Drama" ,O PROGRAMA
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OPRGMA.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/0s67jEe.jpg" pltv-subgroup="Terror",QUANDO AS LUZES SE APAGAM
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QNDASLZSAPGM.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/cvWAky" pltv-subgroup="Terror" ,INVOCACAO DO MAL 2013  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INVCAODML.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/kce39oL.jpg" pltv-subgroup="Terror",INVOCACAO DO MAL 2 2016 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INVCAODML2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/I1PaW0P.jpg" pltv-subgroup="Policial",TRIPLE 9
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/TRPL9.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/PrYvvbb.jpg" pltv-subgroup=" Ficção científica" ,HARDCORE: MISSÃO EXTREMA
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/M3MMKIC.jpg" pltv-subgroup="Comédia",THE RIDICULOUS 6
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/THRDCULOS6.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/1nNn6y5.jpg" pltv-subgroup="Comédia" ,SOUTH PARK: MAIOR, MELHOR E SEM CORTES
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/STHPRKFILME01.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/SfdevPw.jpg" pltv-subgroup="Drama",OS 33
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OS33.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/KBmaSgE.jpg" pltv-subgroup="Ficção científica",X-MEN: APOCALIPSE
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/XMENAPCLPSE.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/KBVULe2.jpg" pltv-subgroup="Drama" pltv-subgroup="Drama" ,O REGRESSO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ORGRSODUB.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/ZcmpxyF.jpg" pltv-subgroup="Ação" pltv-subgroup="Ação",REBELIÃO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RBLOA.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/n8MAdLX.jpg" pltv-subgroup="Ação" pltv-subgroup="Ação",JOGO DE ASSASSINOS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/JGSDASINS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/MD2xjKG.jpg" pltv-subgroup="/Drama" pltv-subgroup="Terror",REGRESSO DO MAL
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/RGRSDMAL.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/FX1asMq.jpg" pltv-subgroup="Filmes em Cartaz" pltv-subgroup="Terror",A SEITA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASITA.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/86lniIy.jpg"  pltv-subgroup="Filmes em Cartaz" pltv-subgroup="Policial" ,TRUQUE DE MESTRE: O SEGUNDO ATO
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/TRQDMSTR2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/v1DMaKj.jpg" pltv-subgroup="Filmes em Cartaz" pltv-subgroup="Suspense" ,MERCY
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MERCY.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/p6q4eqv.jpg" pltv-subgroup="Filmes em Cartaz" pltv-subgroup=" Drama",HORAS DECISIVAS
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HRSDCSVS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Pm9LgJt.jpg" pltv-subgroup="Ficção científica" ,INDEPENDENCE DAY: O RESSURGIMENTO
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/ZBqeLrM.jpg" pltv-subgroup="Suspense",ASSALTO AO PODER
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASLTOAOPDR.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/PsqBnJJ.jpg" pltv-subgroup=" Drama",CINQUENTA TONS DE CINZA
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/efni8Rc.jpg" pltv-subgroup="Comédia",CINQUENTA TONS DE PRETO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CQNTATNSDPRT.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/C0Rwc3C.jpg" pltv-subgroup="Ficção científica" ,QUARTETO FANTÁSTICO
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/QRTFNTSC2015.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/JnICVRx.jpg" pltv-subgroup="Drama" ,STEVE JOBS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/STVJBS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/juVqtgN.png" pltv-subgroup="Policial" ,PERSEGUINDO ABBOTT
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRSGUNDABOT.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/IGKJvOW.jpg" pltv-subgroup="Ficção científica ",MAD MAX (1979)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MDMX01.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/coht4xj.jpg" pltv-subgroup="Ficção científica " ,MAD MAX 2: A CAÇADA CONTINUA (1981)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MDMX02.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/fbl8XZ7.jpg" pltv-subgroup="Ficção científica " ,MAD MAX: ALÉM DA CÚPULA DO DRAGÃO (1985)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/MDMX03.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/rxBPN29.jpg" pltv-subgroup="Ficção científica " ,MAD MAX: ESTRADA DA FÚRIA
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/MDMXESTDFUR.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/a8cMT13.jpg"  pltv-subgroup="Suspense" ,CANIBAIS
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CANBS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/hFw98zr.jpg" pltv-subgroup="Terror" ,Ouija: Onde Tudo  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OUJONDTDCM.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/OHyvfkf.jpg" pltv-subgroup="Terror",Ouija Exorcismo  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OUJEXRCMS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/ulbKh2L.jpg" pltv-subgroup="Terror",Ouija: Origem Do Mal 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OUJORGMDML.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/LjwpCR9.jpg" pltv-subgroup="Policial",Jack Reacher: Sem Retorno 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/JCKRCHSRTN.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/2rx6WeE.png" pltv-subgroup="Drama" ,Fugindo Do Inferno  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/FGNDINFNO.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/UBPYMw9.jpg" pltv-subgroup="Ação" ,Esquadrão de Elite  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ESQDRDELT.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/LyBYkpT.jpg" pltv-subgroup=" Ação",Anjos da Noite: Guerras  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANJSDNT5.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/DbxBDNf.jpg" pltv-subgroup=" Ação" ,Anjos da Noite: O Despertar 2012  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANJSDNT4.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/eQxkX72.png" pltv-subgroup=" Ação" ,Anjos da Noite: A Rebelião 2009  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANJSDNT3.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/447o1C" pltv-subgroup=" Ação",Anjos da Noite: A Evolução  2006  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANJSDNT2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/21SKRT" pltv-subgroup=" Ação",Anjos da Noite: Underworld  2003  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ANJSDNT1.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/N4gAOx8.jpg" pltv-subgroup="Terror" ,A Bruxa de Blair 2016
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BRXDBLR.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/nVTO4i7.jpg" pltv-subgroup="Terror" ,A Bruxa de Blair 2: O Livro das Sombras 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ABRXDBLR2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/1WhGqDe.jpg" pltv-subgroup="Terror",A Bruxa de Blair 1999  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ABRXDBLR.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/nnvnJqG.jpg" pltv-subgroup="Aventura",10000 Anos Depois 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/1000ANSDPS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/6jExvS" pltv-subgroup="Policial" ,O Contador 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCNTDR.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/9vUnXX" pltv-subgroup="Aventura",Deu a Louca no Mundo 1963 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DEUALUCNMND.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/ocomY3" pltv-subgroup="Terror",American Poltergeist 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AMRCNPLTGST.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/rKmwzS" pltv-subgroup="Drama",Assassino a Preço Fixo 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASASINOAPRCFX.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/bDD8cmh.jpg" pltv-subgroup="Drama" ,Assassino a Preço Fixo 2 A Ressurreição 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ASASINOAPRCFX2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Qdslpek.png" pltv-subgroup="Comédia" ,Os Caça-Fantasmas  1984 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSCACFNTSM.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Qdslpek.png" pltv-subgroup="Comédia" ,Os Caça-Fantasmas 2  1989 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CACFNTSM2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/848R34" pltv-subgroup="Ficção científica" ,Matrix - 1999  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MTRX.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/s99cGG" pltv-subgroup="Ficção científica" ,Matrix Reloaded  2003  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MTRXRLD.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/ZUkEzB"  pltv-subgroup="Ficção científica",Matrix Revolutions  2003 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MTRXREV.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/Ly5m1T" pltv-subgroup="Comédia" ,Querida, Estiquei o Bebê 1992 720p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QRDESTQOBB.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/3881dn"  pltv-subgroup="Comédia" ,Querida, Encolhi a Gente 1996 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QRDENCLAGNT.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/26myzc" pltv-subgroup="Comédia",Querida, Encolhi as Crianças 1989
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QRDESCLHACRNS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/szuugN" pltv-subgroup="Terror",Navio Fantasma 2001 1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NVFNTSM.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/d2isSS" pltv-subgroup="Drama" ,O Poderoso Chefão 1972  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPDRSOCFAO1.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/miVOVm" pltv-subgroup="Drama" ,O Poderoso Chefão 2 1974  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPDRSOCFAO2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/veSxeJ" pltv-subgroup="Drama",O Poderoso Chefão 3 1990  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/OPDRSOCFAO3.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/4isxGv" pltv-subgroup="Terror",As Criaturas Atrás das Paredes 1992  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="https://goo.gl/YXqmcj" pltv-subgroup="Drama",Striptease 1996  1080p
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/STRPTESE.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/BctOnek.png" pltv-subgroup="Policial",CARGA EXPLOSIVA (2002)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSV1.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/7GFPBP5.jpg" pltv-subgroup="Policial",CARGA EXPLOSIVA 2 (2005)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSV2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/IcGTgz9.png" pltv-subgroup="Policial",CARGA EXPLOSIVA 3 (2008) 
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSV3.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://imgur.com/5eRW3yK.jpg" pltv-subgroup="Policial",CARGA EXPLOSIVA: O LEGADO (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://imgur.com/KNSiO.jpg" pltv-subgroup="Fantasia",FÚRIA DE TITÃS (2010)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/FRIDTTS1.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Ky25h6f.jpg" pltv-subgroup="Fantasia" ,FÚRIA DE TITÃS 2 (2012)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/FRIDTTS2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/lQDHXhY.png" pltv-subgroup="Ficção científica",A ORIGEM DE COBRA (2009)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GIJOE1.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/ic5MPGx.png" pltv-subgroup="Ação " ,RETALIAÇÃO (2013)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/GIJOE2.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/8nsjxuv.jpg" pltv-subgroup="Drama ",Assassino 47 (2007)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HTMNASNO47.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Zs1R53V.png" pltv-subgroup="Policial" ,Agente 47 (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/HTMNAGNT47.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/APGOjiX.jpg" pltv-subgroup="Ação" ,CAÇADORES DE BRUXAS (2013)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JAOEMRA01.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/s5kc1ca.jpg" pltv-subgroup="Terror",MARIA: E A BRUXA DA FLORESTA NEGRA (2014)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/JAOMRAEABXDFLRSNG.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/wrLWs4D.jpg" pltv-subgroup="Drama",LUTADOR DE RUA (2009)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/LTDRDRUA.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/I4WDY.jpg" pltv-subgroup="Fantasia",O ESPETACULAR HOMEM-ARANHA (2012)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/cBl6mXW.jpg" pltv-subgroup="Ficção científica",O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO (2014)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/7pzUj3A.jpg" pltv-subgroup=" Ação" ,RESIDENT EVIL 3: A EXTINÇÃO (2007)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVIL03.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/3jzjIlc.jpg" pltv-subgroup=" Ação",RESIDENT EVIL 4: RECOMEÇO (2010)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVIL04.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/mQkxPX6.jpg" pltv-subgroup=" Ação",RESIDENT EVIL 5: RETRIBUIÇÃO (2012)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVIL05.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/d9IsUPB.jpg"  pltv-subgroup=" Ação" ,RESIDENT EVIL: APOCALIPSE (2004)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVIL02.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/XGEyDnL.png" pltv-subgroup=" Ação" ,RESIDENT EVIL: CONDENAÇÃO (2012)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVILCNDNCAO.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/08HLySx.jpg" pltv-subgroup=" Ação",RESIDENT EVIL: DEGENERAÇÃO (2009)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVILDGNRC.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Lwu2Poq.jpg" pltv-subgroup=" Ação" ,RESIDENT EVIL: O HÓSPEDE MALDITO (2002)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/REVIL01.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/qnYIet1.jpg" pltv-subgroup=" Policial" ,VELOZES & FURIOSOS (2001)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS01.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/gdJdsZC.jpg"  pltv-subgroup="Policial" ,VELOZES & FURIOSOS 4 (2009)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS04.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/E1wGnCj.jpg"  pltv-subgroup="Policial" ,VELOZES & FURIOSOS 5: OPERAÇÃO RIO (2011)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS05.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/J95H4f9.jpg"  pltv-subgroup="Policial",VELOZES & FURIOSOS 6 (2013)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS06.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/saOaqmh.jpg"  pltv-subgroup="Policial" ,VELOZES & FURIOSOS 7 (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS07.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/t23pXdW.jpg"  pltv-subgroup="Policial",VELOZES & FURIOSOS: DESAFIO EM TÓQUIO (2006)
+http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/VLZEFROSOS03.mp4
+#EXTINF:-1 group-title="TV/FILMES",tvg-logo="http://i.imgur.com/Kw4nMmZ.jpg"  pltv-subgroup="Policial",VELOZES & FURIOSOS 8
+http://painel.tvdigitalsbl.net:8081/movie/jonas3/jonas3/1220.mp4
